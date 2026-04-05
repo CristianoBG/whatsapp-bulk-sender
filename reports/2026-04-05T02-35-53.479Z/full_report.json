@@ -1,0 +1,23 @@
+[
+  {
+    "name": "John Doe",
+    "phone": "5511999999999",
+    "status": "success",
+    "timestamp": "2026-04-05T02:35:00.316Z",
+    "attempts": 1
+  },
+  {
+    "name": "Jane Smith",
+    "phone": "5511888888888",
+    "status": "success",
+    "timestamp": "2026-04-05T02:35:24.977Z",
+    "attempts": 1
+  },
+  {
+    "name": "Alice",
+    "phone": "5511777777777",
+    "status": "success",
+    "timestamp": "2026-04-05T02:35:53.478Z",
+    "attempts": 1
+  }
+]
